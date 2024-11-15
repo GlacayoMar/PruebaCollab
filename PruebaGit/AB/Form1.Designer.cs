@@ -1,16 +1,16 @@
-﻿namespace PruebaGit
+﻿namespace PruebaGit.AB
 {
     partial class Form1
     {
         /// <summary>
-        /// Variable del diseñador necesaria.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpiar los recursos que se estén usando.
+        /// Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,11 +20,11 @@
             base.Dispose(disposing);
         }
 
-        #region Código generado por el Diseñador de Windows Forms
+        #region Windows Form Designer generated code
 
         /// <summary>
-        /// Método necesario para admitir el Diseñador. No se puede modificar
-        /// el contenido de este método con el editor de código.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
@@ -34,11 +34,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(43, 139);
+            this.label1.Location = new System.Drawing.Point(328, 131);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(152, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.label1.Text = "Andrea Fernanda Bojorge Cruz";
             // 
             // Form1
             // 
@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "AB";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -58,4 +58,3 @@
         private System.Windows.Forms.Label label1;
     }
 }
-
