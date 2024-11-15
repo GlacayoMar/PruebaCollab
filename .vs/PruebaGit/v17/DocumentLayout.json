@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repo\\Sesion15Nov\\PruebaGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DBD25A4-5AFB-4FE1-B305-FC0AB066EF1E}|PruebaGit\\PruebaGit.csproj|c:\\repo\\sesion15nov\\pruebagit\\pruebagit\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBD25A4-5AFB-4FE1-B305-FC0AB066EF1E}|PruebaGit\\PruebaGit.csproj|solutionrelative:pruebagit\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DBD25A4-5AFB-4FE1-B305-FC0AB066EF1E}|PruebaGit\\PruebaGit.csproj|c:\\repo\\sesion15nov\\pruebagit\\pruebagit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9DBD25A4-5AFB-4FE1-B305-FC0AB066EF1E}|PruebaGit\\PruebaGit.csproj|solutionrelative:pruebagit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Prueba.cs",
+              "DocumentMoniker": "C:\\Repo\\Sesion15Nov\\PruebaGit\\PruebaGit\\models\\Prueba.cs",
+              "RelativeDocumentMoniker": "PruebaGit\\models\\Prueba.cs",
+              "ToolTip": "C:\\Repo\\Sesion15Nov\\PruebaGit\\PruebaGit\\models\\Prueba.cs",
+              "RelativeToolTip": "PruebaGit\\models\\Prueba.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:20:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Repo\\Sesion15Nov\\PruebaGit\\PruebaGit\\Form1.cs",
               "RelativeDocumentMoniker": "PruebaGit\\Form1.cs",
